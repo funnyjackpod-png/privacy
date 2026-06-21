@@ -2,10 +2,6 @@
 
 最終更新 / Last updated: 2026-06-20
 
-> Google Play はプライバシーポリシーURLの掲載を必須とする。
-> このテキストを GitHub Pages・Notion 公開ページ・個人サイト等に公開し、
-> その URL を Play Console とアプリ掲載情報に設定すること。
-
 ---
 
 ## 日本語
