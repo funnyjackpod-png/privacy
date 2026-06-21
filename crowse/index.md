@@ -1,4 +1,7 @@
-# Crowse プライバシーポリシー / Privacy Policy
+---
+title: Crowse Privacy Policy
+layout: none
+---
 
 最終更新 / Last updated: 2026-06-20
 
